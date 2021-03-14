@@ -1,0 +1,9 @@
+To use the programme just run the enigma.py file
+
+Remember to have the rotor_state.enigma file in the same directory you keep the code
+
+COMMAND GUIDES:use them to control machine  
+! -> quit the program
+# -> reset the rotor`s setiings
+
+
