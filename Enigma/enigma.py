@@ -6,7 +6,7 @@ def load_data():
     global r1,r2,r3
     f = open("rotor_state.enigma","rb")
     r1 , r2 , r3 = pickle.load(f)
-    print(r1)
+    
 def reflector(c):
     return alphabets[len(alphabets) - alphabets.find(c)-1]
 
@@ -54,7 +54,7 @@ while True:
             import rotor 
             open("rotor_state.enigma","rb")
             load_data()
-            print(r1)
+            
         else: 
             counter += 1    
             cipher += enigma_code(c)
