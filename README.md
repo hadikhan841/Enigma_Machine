@@ -1,2 +1,4 @@
 # Enigma_Machine
-terminal like version of enigma machine
+Terminal version of enigma machine
+
+If you want to learn more about Enigma machine visit : https://en.wikipedia.org/wiki/Enigma_machine
